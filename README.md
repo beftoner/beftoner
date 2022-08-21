@@ -1,5 +1,4 @@
--I’m @beftoner!!!; 
-the man being whos currently hanging out there just for fun
+-I’m @beftoner!!!; the specific human being whos currently hanging out there just for joy
 
 <!---
 beftoner/beftoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
